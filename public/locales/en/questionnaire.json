@@ -1,0 +1,14 @@
+{
+  "import.upload.generalError" : "An error occurred when attempting the upload. Please try again.",
+  "import.upload.fileSelect" : "Select file",
+  "import.upload.fileError" : "Please provide a file.",
+  "import.upload.version" : "Version",
+  "import.upload.versionError" : "Please provide a version.",
+  "import.upload.year" : "Audit Year",
+  "import.upload.yearError" : "Please provide a year.",
+  "import.upload.name" : "Name",
+  "import.upload.nameError" : "Please provide a name.",
+  "import.upload.buttonLabel" : "Upload",
+  "import.table.unknownError" : "An unknown error occurred when attempting to load questionnaire data.",
+  "import.error.modal.cancelBtn" : "Ok"
+}

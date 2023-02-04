@@ -1,0 +1,15 @@
+{
+  "root.url" : "Clients",
+  "list.pageTitle" : "Clients",
+  "create.title" : "Create a new client",
+  "create.clientName" : "Name of the client ",
+  "create.description" : "Description of the client ",
+  "create.add" : "Add",
+  "create.unknownError" : "An unknown error occurred when attempting to create the client.",
+  "create.error.name" : "Please enter a name for the client!",
+  "create.error.description" : "Please enter a description for the client!",
+  "table.unknownError" : "An unknown error occurred when attempting to load client data.",
+  "table.columns.serial" : "Serial",
+  "table.columns.name" : "Name",
+  "table.columns.description" : "Description"
+}

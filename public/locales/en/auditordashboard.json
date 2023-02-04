@@ -1,0 +1,16 @@
+{
+  "path.Dashboard" : "Dashboard",
+  "title" : "Auditor Dashboard",
+  "loading" : "Loading  ",
+  "status.customerCount" : "Number of Clients",
+  "status.inProgress" : "Audits in Progress",
+  "status.notStarted" : "Audits Not Started",
+  "status.completed" : "Audits Completed",
+  "table.columns.Customer": "Client",
+  "table.columns.Questionnaire": "Questionnaire",
+  "table.columns.Status": "Status",
+  "table.columns.Respondent": "Respondent",
+  "table.columns.AuditDate": "AuditDate",
+  "table.columns.Reviewer": "Reviewer",
+  "table.columns.Auditor": "Auditor"
+}

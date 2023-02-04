@@ -1,0 +1,9 @@
+{
+  "landing.applicationName" : "TalaAudit: Security Audit Application",
+  "landing.infoText" : "An easy to use security audit application to help you meet your compliance needs. TalaAudit will address SOC2, HIPPAA, NIST, ISO27001, and other security compliance and regulatory needs.",
+  "login.userName" : "Enter your email to login",
+  "login.password" : "Enter your password",
+  "login.error.userName" : "Please enter Username",
+  "login.loginBtn" : "Login",
+  "login.error.password" : "Please enter Password"
+}
